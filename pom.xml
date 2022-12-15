@@ -5,7 +5,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.pyyne.challenge.bank</groupId>
-  <artifactId>BankController</artifactId>
+  <artifactId>PyneBankController</artifactId>
   <version>1.0-SNAPSHOT</version>
 
   <name>BankController</name>
@@ -19,12 +19,6 @@
   </properties>
 
   <dependencies>
-    <dependency>
-      <groupId>junit</groupId>
-      <artifactId>junit</artifactId>
-      <version>4.11</version>
-      <scope>test</scope>
-    </dependency>
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
